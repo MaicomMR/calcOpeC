@@ -40,7 +40,7 @@ body  {
     color: white;
 }
 
-.caixaObs {
+.caixaObs, .caixaRes {
     background-color: rgb(140, 194, 140);
     margin-left: 5%;
     margin-top: 10%;
